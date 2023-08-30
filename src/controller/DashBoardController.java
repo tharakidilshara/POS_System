@@ -22,7 +22,7 @@ import java.util.ResourceBundle;
 
 public class DashBoardController implements Initializable {
 
-    public AnchorPane dashboardPane;
+//    public AnchorPane dashboardPane;
     @FXML
     private Label lblDate;
 
